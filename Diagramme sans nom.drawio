@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T14:16:58.439Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UiNG9vOBR0USUQKSA8gZ" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T14:23:42.033Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dGPWDH8Q8goPut675h-X" version="24.0.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1037" dy="-527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,19 +32,19 @@
         <mxCell id="LAnkrpoia5nLunFZvdlf-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="270" y="1860" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LAnkrpoia5nLunFZvdlf-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;inputs_values&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="LAnkrpoia5nLunFZvdlf-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;inputs_values&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="280" y="1870" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LAnkrpoia5nLunFZvdlf-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="355" y="1860" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LAnkrpoia5nLunFZvdlf-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;attention_maks&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="LAnkrpoia5nLunFZvdlf-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;attention_maks&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="370" y="1870" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LAnkrpoia5nLunFZvdlf-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="450" y="1860" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LAnkrpoia5nLunFZvdlf-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;numerical_labels&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="LAnkrpoia5nLunFZvdlf-8" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;numerical_labels&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="460" y="1870" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LAnkrpoia5nLunFZvdlf-16" value="SSL-Model Acoustic Features inputs&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -89,8 +89,23 @@
         <mxCell id="LAnkrpoia5nLunFZvdlf-22" value="&lt;span style=&quot;color: rgb(17, 24, 39); font-family: &amp;quot;IBM Plex Mono&amp;quot;, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: start; background-color: rgb(243, 244, 246);&quot;&gt;WE CALL IT BEAR&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="1953.13" width="130" height="26.87" as="geometry" />
         </mxCell>
-        <mxCell id="LAnkrpoia5nLunFZvdlf-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1870" width="70" height="20" as="geometry" />
+        <mxCell id="LAnkrpoia5nLunFZvdlf-25" value="CNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1770" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAnkrpoia5nLunFZvdlf-27" value="Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1660" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LAnkrpoia5nLunFZvdlf-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.521;entryY=1.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LAnkrpoia5nLunFZvdlf-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.75" y="1820" as="sourcePoint" />
+            <mxPoint x="404.75" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAnkrpoia5nLunFZvdlf-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.75" y="1770" as="sourcePoint" />
+            <mxPoint x="400" y="1750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
