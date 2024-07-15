@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T14:14:21.240Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QmTSjySZKHrezshqxWxT" version="24.6.5" type="github">
-  <diagram name="Page-1" id="3kp3wKmhMZSMGYWY6HW4">
+<mxfile host="app.diagrams.net" modified="2024-07-15T14:16:20.993Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="axnFzlwOQfLvPTJmJrX1" version="24.6.5" type="github" pages="2">
+  <diagram name="TRI-modal" id="3kp3wKmhMZSMGYWY6HW4">
     <mxGraphModel dx="1364" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1030,6 +1030,14 @@
             <mxPoint x="360" y="25.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vMCglGHcugoWwEMSgbPV" name="Page-2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
