@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T15:10:56.241Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="H6o3ZzjD_9OCNWdLxKOZ" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-18T15:11:11.442Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PBbH-WlUn4XOjKKxFEVj" version="24.7.1" type="github" pages="3">
   <diagram name="E2E-Fluency" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2074" dy="46" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -370,7 +370,7 @@
             <mxPoint x="413.31000000000006" y="1513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hnKEFw4PYzKk9jmvEg54-99" value="&lt;font face=&quot;Georgia&quot;&gt;BiLSTM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="hnKEFw4PYzKk9jmvEg54-99" value="&lt;font face=&quot;Georgia&quot;&gt;BiLSTM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="387" y="1498" width="53" height="15" as="geometry" />
         </mxCell>
         <mxCell id="hnKEFw4PYzKk9jmvEg54-100" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
