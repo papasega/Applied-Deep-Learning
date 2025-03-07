@@ -809,7 +809,7 @@
         <mxCell id="Upx-sDGiY0b-ehAHy3Wq-110" value="&lt;font face=&quot;Georgia&quot;&gt;Débit de Parole&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-family: Georgia;&quot;&gt;Diversité Lexicale&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Georgia;&quot;&gt;Répétitions ngrams&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Georgia;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="117.21" y="621" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Upx-sDGiY0b-ehAHy3Wq-113" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="Upx-sDGiY0b-ehAHy3Wq-113" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeWidth=1;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="270.77" y="540" width="321.12" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Upx-sDGiY0b-ehAHy3Wq-114" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -932,7 +932,7 @@
             <mxPoint x="698" y="645.1250000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Upx-sDGiY0b-ehAHy3Wq-169" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Concaténation&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Upx-sDGiY0b-ehAHy3Wq-169" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Concaténation&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="698" y="622.82" width="92.39" height="43.37" as="geometry" />
         </mxCell>
         <mxCell id="Upx-sDGiY0b-ehAHy3Wq-170" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
