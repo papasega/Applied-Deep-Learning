@@ -1017,7 +1017,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vMCglGHcugoWwEMSgbPV" name="Page-2">
-    <mxGraphModel dx="1119" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1215,6 +1215,39 @@
         </mxCell>
         <mxCell id="FZ307dBZA2X5VvAEFmcr-40" value="&lt;span style=&quot;font-family: Georgia;&quot;&gt;Pause longue détectée ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#66FF66;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="703" width="140" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ307dBZA2X5VvAEFmcr-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="556" y="622" as="sourcePoint" />
+            <mxPoint x="556" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ307dBZA2X5VvAEFmcr-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.4999999999999" y="622.13" as="sourcePoint" />
+            <mxPoint x="556" y="622" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="621.88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ307dBZA2X5VvAEFmcr-45" value="&lt;font face=&quot;Georgia&quot;&gt;Transcriptions&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: Georgia; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;temporelles&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="455.75" y="657" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ307dBZA2X5VvAEFmcr-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="687" as="sourcePoint" />
+            <mxPoint x="559" y="759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZ307dBZA2X5VvAEFmcr-48" value="&lt;font face=&quot;Georgia&quot;&gt;Extraction encodages vectoriels&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="255" y="970" width="188" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FZ307dBZA2X5VvAEFmcr-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347" y="952" as="sourcePoint" />
+            <mxPoint x="347" y="971" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
