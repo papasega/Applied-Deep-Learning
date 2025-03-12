@@ -1017,7 +1017,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vMCglGHcugoWwEMSgbPV" name="Page-2">
-    <mxGraphModel dx="1306" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="632" dy="385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1028,7 +1028,7 @@
           <mxGeometry x="255" y="657" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FZ307dBZA2X5VvAEFmcr-7" value="&lt;font face=&quot;Georgia&quot;&gt;Filtrages des pauses remplies (euh, hum)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="438" y="760" width="220.5" height="30" as="geometry" />
+          <mxGeometry x="460" y="760" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FZ307dBZA2X5VvAEFmcr-8" value="&lt;font face=&quot;Georgia&quot;&gt;Fusion des segments courts&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="255" y="869" width="192" height="30" as="geometry" />
@@ -1042,7 +1042,7 @@
             <mxPoint x="347.5" y="657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZ307dBZA2X5VvAEFmcr-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FZ307dBZA2X5VvAEFmcr-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FZ307dBZA2X5VvAEFmcr-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="417.5" y="774.9200000000001" as="sourcePoint" />
             <mxPoint x="437.5" y="774.9200000000001" as="targetPoint" />
@@ -1277,7 +1277,7 @@
           <mxGeometry x="447" y="921" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FZ307dBZA2X5VvAEFmcr-55" value="&lt;span style=&quot;font-family: Georgia;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Extraction encodages vectoriels&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="451" y="972.5" width="94.25" height="29" as="geometry" />
+          <mxGeometry x="449" y="976.71" width="94.25" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FZ307dBZA2X5VvAEFmcr-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="344.74" y="933" width="12.53" height="168.19" as="geometry" />
